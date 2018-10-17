@@ -1,4 +1,5 @@
 # image-tool-vue
+<<<<<<< HEAD
 
 > 图片处理工具前端页面
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+图片处理工具前端项目
+>>>>>>> a1225baf01364d5336e8d5d0cea1d5fb9b2f6854
